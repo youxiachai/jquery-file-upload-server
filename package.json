@@ -1,0 +1,23 @@
+{
+  "name": "jquery-file-upload-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:youxiachai/jquery-file-upload-server.git"
+  },
+  "author": "youxiachai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youxiachai/jquery-file-upload-server/issues"
+  },
+  "homepage": "https://github.com/youxiachai/jquery-file-upload-server",
+  "dependencies": {
+    "express": "^3.4.8",
+    "jquery-file-upload-middleware": "^0.1.1"
+  }
+}
